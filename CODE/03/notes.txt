@@ -1,0 +1,8 @@
+Recursivity:
+	- Start with unittests
+Iteration:
+- While: its better to evaluate boolean, and this
+have an "else" clausule
+ -- Break: jumps the loop
+ -- continue" goes back to the init point of loop
+ 
